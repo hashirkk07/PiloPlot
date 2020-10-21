@@ -15,16 +15,20 @@
 	(in Unix-based, a simple right-click gives you the option to open the Terminal) 
 
 	run this command in that to install the supporting packages:  
+		
 		$ pip3 install -r requirements.txt
 
 4.	Next, in the same Powershell (in Windows) or same Terminal (in Unix-based or Mac) in the same folder PiloPlot
 	run this command :
 	In Windows (make sure the default python is not python2):  
+		
 		$ python.exe piloplot.py
 	or  
+		
 		$ python piloplot.py
 	(remove python2 if this does not work)
 	In Linux/Mac  
+		
 		$ python3 piloplot.py
 
 	Thats all! PiloPlot GUI must be infront of you now.
